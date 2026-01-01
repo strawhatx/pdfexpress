@@ -1,30 +1,83 @@
-![photopea-logo](https://user-images.githubusercontent.com/79121360/112741096-3d56bd00-8f37-11eb-982d-1866764e642c.png)
+# PDFExpress
 
+![pdfexpress-logo](https://your-logo-url-here)
 
-[Photopea.com](//www.Photopea.com) is a free online tool for editing raster and vector graphics with support for **PSD, AI, and Sketch** files.
+[PDFExpress.com](https://www.pdfexpress.com) is a **fast, privacy-first online PDF editor** that lets you edit and sign PDFs directly in your browser — **no installs, no trials, no surprise paywalls**.
 
-Since Photopea is not fully open-source, this repository serves as a place for bug reports, feature requests, and general discussion.
+PDFExpress is designed for quick, everyday PDF tasks:
+- Edit text
+- Add a signature
+- Download your document instantly
 
 ---
 
-### Supported Formats
-- Complex: PSD, AI, INDD, XCF, Sketch, XD, FIG, KRI, CLIP, SAI, PXD, PXZ, CDR, UFO, Fireworks PNG, AFPHOTO, GVDESIGN, SVG, EPS, PDF, PDN, WMF, EMF.
-- Raster: PNG (APNG), JPG, GIF, WebP, ICO, ICNS, BMP, AVIF, HEIC, JXL, PPM/PGM/PBM, TIFF, DDS, IFF, EXR, HDR, ANIM, TGA.
-- Raw: DNG, NEF, CR2, CR3, ARW, RW2, RAF, ORF, GPR, 3FR, FFF.
-- Animated: GIF, APNG, MP4, WEBM, MKV (each frame becomes a layer, can be exported back to GIF or MP4).
+## About This Repository
 
-<!-- Right now, Photopea is:
-- the best free image editor
-- the best Photoshop alternative
-- the only way to open Sketch files outsied Mac OS
-- the best image editor for Chromebooks and other low power devices -->
+PDFExpress is **not open-source**.
 
-### Where You Can Find Us
-- :envelope: support@photopea.com
-- :thumbsup: [facebook.com/photopea](https://facebook.com/photopea)
-- :bird: [twitter.com/photopeacom](https://twitter.com/photopeacom)
-- :orange_book: [reddit.com/r/photopea](https://www.reddit.com/r/photopea)
-- :tada: [photopea.com](https://www.photopea.com)
+This public repository exists **only** for:
+- 🐞 Bug reports  
+- 💡 Feature requests  
+- 💬 Product discussion  
 
-### Other 
-- [API](https://www.photopea.com/api), [Blog](https://blog.photopea.com), [Learn](https://www.photopea.com/learn), [Translations](https://www.photopea.com/translate)
+The application source code is maintained in a **private repository**.
+
+> ⚠️ Please do not submit pull requests — this repo is for feedback only.
+
+---
+
+## Privacy-First by Design
+
+- Files are processed **in the browser**
+- Documents are **not stored** by default
+- Files are removed when you leave the page
+
+We believe PDF tools should be useful **without trapping users or collecting their data**.
+
+---
+
+## Core Features
+
+### Free
+- Upload PDF
+- Edit text
+- Add **1 signature**
+- Download without watermark
+
+### Paid (Optional Upgrade)
+- Unlimited signatures
+- Merge / split PDFs
+- Fill forms
+- Cloud save & resume later
+- Ad-free experience
+
+Pricing is always shown **before** you upgrade — no hidden charges.
+
+---
+
+## Supported Formats
+
+- **PDF** (primary focus)
+- Embedded text, vector content, and images inside PDFs
+
+*(PDFExpress is intentionally focused on PDFs only — fast, simple, and reliable.)*
+
+---
+
+## Where to Get Help
+
+- 📧 Support: support@pdfexpress.com  
+- 🐛 Issues & Requests: GitHub Issues (this repo)  
+- 🌐 Website: https://www.pdfexpress.com  
+
+---
+
+## Philosophy
+
+PDFExpress is built on three principles:
+
+1. **Free means free**
+2. **No surprise paywalls**
+3. **User trust compounds**
+
+If you’ve ever been blocked at the “Download” button — this tool is for you.
