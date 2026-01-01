@@ -1,7 +1,5 @@
 # PDFExpress
 
-![pdfexpress-logo](https://your-logo-url-here)
-
 [PDFExpress.com](https://www.pdfexpress.com) is a **fast, privacy-first online PDF editor** that lets you edit and sign PDFs directly in your browser — **no installs, no trials, no surprise paywalls**.
 
 PDFExpress is designed for quick, everyday PDF tasks:
